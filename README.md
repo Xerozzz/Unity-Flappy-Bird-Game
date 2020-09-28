@@ -10,12 +10,13 @@ This was the first time I created a game using Unity, the first time I created a
 ## Changelog
 |Update|Date|Remarks|
 |---|---|---|
+|1.0|28th September 2020|Added Installation section into the README|
 |1.0|29th July 2020|Upload of the entire game and related files and folders.|
 
 This game was done entirely on my local machine before being pushed completely into GitHub, hence the lack of changes. However, should there be anymore updates in the future, it will be reflected here.
 
 ## Status
-Completed. No longer updated regularly.
+Completed.
 
 ## Tutorial
 Link to the tutorial is here: https://learn.unity.com/tutorial/live-session-making-a-flappy-bird-style-game?courseId=5c5c1e08edbc2a5465c7ec01#
