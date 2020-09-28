@@ -5,7 +5,7 @@ This was the first time I created a game using Unity, the first time I created a
 
 ## Installation
 1. Clone this repo into a folder
-2. Launch the .exe file 
+2. Run the `Flappy Bird Game.exe` file to launch the game 
 
 ## Changelog
 |Update|Date|Remarks|
