@@ -3,6 +3,10 @@
 
 This was the first time I created a game using Unity, the first time I created a Game and also the first time coding in C#. This was a very eye opening and enjoyable experience which gave me my first touch at game design, something I always wanted to do but never had to time to. After doing this tutorial, I am more interested in trying out other Unity tutorials and maybe even start on a project of my own when I have more time during the holidays. Maybe a Tower Defense or RPG game? However, this has also made me want to go learn C# first as well to brush up on my C# skills as well as learn a new programming language.
 
+## Installation
+1. Clone this repo into a folder
+2. Launch the .exe file 
+
 ## Changelog
 |Update|Date|Remarks|
 |---|---|---|
